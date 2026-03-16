@@ -16,3 +16,6 @@ This project analyses Australian dwelling types, occupancy patterns, and structu
 
 ## Purpose
 This dashboard demonstrates my ability to work with structured datasets, build clear visualisations, and communicate insights — skills relevant to data, analytics, and integration roles.
+## Dashboard Preview
+
+![Dashboard Overview](dashboarb.jpg)
